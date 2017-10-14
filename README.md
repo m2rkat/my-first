@@ -1,2 +1,2 @@
 # my-first
-Hello-world type of repo.
+Hello-world type of repository.
